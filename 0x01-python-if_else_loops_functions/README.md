@@ -1,1 +1,1 @@
-if else loops
+python tasks on loops
